@@ -108,5 +108,3 @@ To run the app locally:
 2. Navigate to the project directory
 3. Install dependencies (if any)
 4. Run the following command: `python main.py`
-
-# fasthtml-todo
